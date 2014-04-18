@@ -2,7 +2,7 @@
 window.onload = function() {
 
     // 自分のhostnameに変更する
-    var url = "http://HOSTNAME:PORT/result/type-A.txt";
+    var url = "http://90202024n.local:8000/result/type-A.txt";
 
     // xhrの準備
     var xhr = new XMLHttpRequest();
